@@ -1,3 +1,4 @@
+// ルーティング制御（ページ遷移とヘッダー指定）
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 import { Top } from "../components/pages/Top";
